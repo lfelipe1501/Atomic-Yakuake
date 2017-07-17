@@ -1,11 +1,11 @@
 [Description]
-Skin=atomic
+Skin=Atomic
 Author=lfelipe
-Email=lfelip1501@gmail.com
+Email=lfelipe1501@gmail.com
 Icon=/icon.png
 
 [Tabs]
-x=20
+x=22
 y=0
 red=239
 green=240

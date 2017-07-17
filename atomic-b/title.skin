@@ -1,13 +1,13 @@
 [Description]
-Skin=atomic
+Skin=Atomic
 Author=lfelipe
-Email=lfelip1501@gmail.com
+Email=lfelipe1501@gmail.com
 Icon=/icon.png
 
 [Border]
-red=83
-green=83
-blue=83
+red=51
+green=51
+blue=51
 width=1
 
 [Text]
@@ -21,7 +21,7 @@ text=Atomic Terminal
 [Background]
 back_image=/title/back.png
 left_corner=/title/left.png
-right_corner=/title/right.pngs
+right_corner=/title/right.png
 
 [FocusButton]
 x=78

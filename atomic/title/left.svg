@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30"><defs><linearGradient y2="12.318" x2="48.41" y1="32.21" x1="48.35" gradientTransform="matrix(.41317 0 0 1.49415 558.94 564.94)" gradientUnits="userSpaceOnUse" id="3" xlink:href="#2"/><linearGradient id="2"><stop stop-color="#333333"/><stop offset="1" stop-color="#363636"/></linearGradient><linearGradient y2="12.318" x2="48.41" y1="32.21" x1="48.35" gradientTransform="matrix(.41317 0 0 1.29493 538.94 567.36)" gradientUnits="userSpaceOnUse" id="0" xlink:href="#2"/><linearGradient xlink:href="#2" id="1" x1="613.12" x2="583.12" gradientUnits="userSpaceOnUse"/></defs><g transform="translate(-553.72-583.12)"><g color="#000"><path fill="url(#0)" d="m553.72 583.12h10v26h-10z"/><rect width="30" height="30" x="583.12" y="-583.72" rx="4" transform="matrix(0 1-1 0 0 0)" fill="url(#1)"/><path fill="url(#3)" d="m573.72 583.12h10v30h-10z"/></g><path transform="matrix(0 1-1 0 0 0)" fill="#d64937" d="m583.12-583.72h2v30h-2z"/><g><g>
-      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="553.7" y="585.2" width="30" height="28"
+      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="555.3" y="585.5" width="27" height="27"
       	 viewBox="0 0 460 460" style="enable-background:new 0 0 460 460;" xml:space="preserve">
       <path style="fill:#dedede;" d="M370.898,143.68c-0.204-0.108-0.413-0.212-0.617-0.32c0.009-0.231,0.023-0.464,0.031-0.694
       	c1.709-48.474-13.321-84.39-42.321-101.133c-29.001-16.744-67.62-11.802-108.745,13.916c-0.196,0.122-0.39,0.251-0.586,0.375
@@ -39,35 +39,5 @@
       <circle style="fill:#4285f4;" cx="115.368" cy="409.808" r="32.678"/>
       <circle style="fill:#d64937;" cx="114.331" cy="50.192" r="32.678"/>
       <circle style="fill:#dedede;" cx="218" cy="231" r="32.678"/>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
-      <g>
-      </g>
       </svg>
     </g></g></g></svg>
