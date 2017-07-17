@@ -1,4 +1,4 @@
-# <a href="https://www.lfsystems.xyz"><img src="logo.svg" width="32" height="32"></a> <a href="https://www.lfsystems.xyz">Atomic Theme</a> in Yakuake Terminal
+# <a href="https://www.lfsystems.xyz"><img src="https://cdn.rawgit.com/lfelipe1501/Atomic-Yakuake/537e149c/logo.svg" width="32" height="32"></a> <a href="https://store.kde.org/p/1153663/">Atomic Theme</a> in Yakuake Terminal
 
 Atomic Yakuake Themes Collentions
 
