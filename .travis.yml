@@ -1,0 +1,6 @@
+sudo: false
+script: test/run
+language: python
+os:
+  - linux
+  - osx
