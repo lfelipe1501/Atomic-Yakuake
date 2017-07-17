@@ -3,6 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![Python27](https://img.shields.io/badge/python-2.7-blue.svg)]()
+[![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
 
 Atomic Yakuake Themes Collections
 
