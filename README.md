@@ -6,7 +6,7 @@ Atomic Yakuake Themes Collections
 
 These themes were designed for version 3 of Yakuake
 
-## Contact / Social Media
+### Contact / Social Media
 
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
 
@@ -14,12 +14,12 @@ These themes were designed for version 3 of Yakuake
 [![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/lfelipe1501)
 [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/lfelipe1501)
 
-## Development by
+### Development by
 
 Developer / Author: [Luis Felipe Sánchez](https://github.com/lfelipe1501)
 Company: [lfsystems](https://www.lfsystems.xyz)
 
-## License
+### License
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This work by Luis Felipe Sánchez is licensed under a Creative Commons Attribution 4.0 International License.
+This work by [Luis Felipe Sánchez](https://github.com/lfelipe1501) is licensed under a Creative Commons Attribution 4.0 International License.
