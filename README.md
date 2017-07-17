@@ -1,9 +1,9 @@
 # <a href="https://www.lfsystems.xyz"><img src="https://cdn.rawgit.com/lfelipe1501/Atomic-Yakuake/537e149c/logo.svg" width="80" height="80"></a> <a href="https://store.kde.org/p/1153663/">Atomic Theme</a> in Yakuake Terminal
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![Python27](https://img.shields.io/badge/python-2.7-blue.svg)]()
-[![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/lfelipe1501/Atomic-Yakuake/issues)
+[![Python27](https://img.shields.io/badge/python-2.7-blue.svg)](convert.py)
+[![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/lfelipe1501/Atomic-Yakuake/commits)
 
 Atomic Yakuake Themes Collections
 
