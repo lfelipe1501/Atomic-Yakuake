@@ -1,7 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30"><defs><linearGradient y2="12.318" x2="48.41" y1="32.21" x1="48.35" gradientTransform="matrix(.41317 0 0 1.49415 558.94 564.94)" gradientUnits="userSpaceOnUse" id="3" xlink:href="#2"/><linearGradient id="2"><stop stop-color="#333333"/><stop offset="1" stop-color="#363636"/></linearGradient><linearGradient y2="12.318" x2="48.41" y1="32.21" x1="48.35" gradientTransform="matrix(.41317 0 0 1.29493 538.94 567.36)" gradientUnits="userSpaceOnUse" id="0" xlink:href="#2"/><linearGradient xlink:href="#2" id="1" x1="613.12" x2="583.12" gradientUnits="userSpaceOnUse"/></defs><g transform="translate(-553.72-583.12)"><g color="#000"><path fill="url(#0)" d="m553.72 583.12h10v26h-10z"/><rect width="30" height="30" x="583.12" y="-583.72" rx="4" transform="matrix(0 1-1 0 0 0)" fill="url(#1)"/><path fill="url(#3)" d="m573.72 583.12h10v30h-10z"/></g><path transform="matrix(0 1-1 0 0 0)" fill="#d64937" d="m583.12-583.72h2v30h-2z"/><g><g>
-      <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="555.3" y="585.5" width="27" height="27"
-      	 viewBox="0 0 460 460" style="enable-background:new 0 0 460 460;" xml:space="preserve">
-      <path style="fill:#dedede;" d="M370.898,143.68c-0.204-0.108-0.413-0.212-0.617-0.32c0.009-0.231,0.023-0.464,0.031-0.694
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30"><defs><linearGradient y2="12.318" x2="48.41" y1="32.21" x1="48.35" gradientTransform="matrix(.41317 0 0 1.49415 558.94 564.94)" gradientUnits="userSpaceOnUse" id="3" xlink:href="#2"/><linearGradient id="2"><stop stop-color="#333333"/><stop offset="1" stop-color="#363636"/></linearGradient><linearGradient y2="12.318" x2="48.41" y1="32.21" x1="48.35" gradientTransform="matrix(.41317 0 0 1.29493 538.94 567.36)" gradientUnits="userSpaceOnUse" id="0" xlink:href="#2"/><linearGradient xlink:href="#2" id="1" x1="613.12" x2="583.12" gradientUnits="userSpaceOnUse"/></defs><g transform="translate(-553.72-583.12)"><g color="#000"><path fill="url(#0)" d="m553.72 583.12h10v26h-10z"/><rect width="30" height="30" x="583.12" y="-583.72" rx="4" transform="matrix(0 1-1 0 0 0)" fill="url(#1)"/><path fill="url(#3)" d="m573.72 583.12h10v30h-10z"/></g><path transform="matrix(0 1-1 0 0 0)" fill="#d64937" d="m583.12-583.72h2v30h-2z"/><g><g><svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="555.3" y="585.5" width="27" height="27" viewBox="0 0 460 460" style="enable-background:new 0 0 460 460;" xml:space="preserve"><path style="fill:#dedede;" d="M370.898,143.68c-0.204-0.108-0.413-0.212-0.617-0.32c0.009-0.231,0.023-0.464,0.031-0.694
       	c1.709-48.474-13.321-84.39-42.321-101.133c-29.001-16.744-67.62-11.802-108.745,13.916c-0.196,0.122-0.39,0.251-0.586,0.375
       	c-0.195-0.123-0.39-0.252-0.586-0.375C176.949,29.732,138.33,24.79,109.329,41.533c-29,16.743-44.03,52.66-42.321,101.133
       	c0.008,0.23,0.023,0.464,0.031,0.694c-0.204,0.108-0.413,0.212-0.617,0.32C23.59,166.437,0,197.411,0,230.898
@@ -34,10 +31,5 @@
       	C168.842,411.55,140.15,414.965,119.331,402.944z M317.992,402.944c-20.821,12.021-49.512,8.607-81.369-9.512
       	c16.961-13.024,33.353-28.997,48.587-47.268c23.44-4.058,45.469-10.267,65.229-18.444
       	C350.201,364.368,338.813,390.923,317.992,402.944z M368.4,296.609c-2.799-21.201-8.436-43.382-16.642-65.711
-      	c8.206-22.329,13.843-44.51,16.642-65.712c31.619,18.53,48.922,41.669,48.922,65.711S400.02,278.08,368.4,296.609z"/>
-      <circle style="fill:#34a853;" cx="427.322" cy="230.898" r="32.678"/>
-      <circle style="fill:#4285f4;" cx="115.368" cy="409.808" r="32.678"/>
-      <circle style="fill:#d64937;" cx="114.331" cy="50.192" r="32.678"/>
-      <circle style="fill:#dedede;" cx="218" cy="231" r="32.678"/>
-      </svg>
-    </g></g></g></svg>
+      	c8.206-22.329,13.843-44.51,16.642-65.712c31.619,18.53,48.922,41.669,48.922,65.711S400.02,278.08,368.4,296.609z"/><circle style="fill:#34a853;" cx="427.322" cy="230.898" r="32.678"/><circle style="fill:#4285f4;" cx="115.368" cy="409.808" r="32.678"/><circle style="fill:#d64937;" cx="114.331" cy="50.192" r="32.678"/>
+      <circle style="fill:#dedede;" cx="218" cy="231" r="32.678"/></svg></g></g></g></svg>
